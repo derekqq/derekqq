@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Dariusz
 #### I am frontend developer.
-![I am frontend developer.](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+
 
 A passionate front-end developer from Cracow. When I do not programming, I invest in the stock market.
 
