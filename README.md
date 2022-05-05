@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **typescript**
 
-- 🤝 I’m looking for help with [kalkulator maturalny](https://kalkulatormaturalny.pl/)
+- 🤝 I’m looking for help with [kalkulator maturalny](https://kalkulatormaturalny.pl/) or [sprawdź węgiel](https://sprawdzwegiel.pl/)
 
 - 💬 Ask me about **react, vue**
 
