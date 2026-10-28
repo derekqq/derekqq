@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Dariusz Jargus</h1>
 <h3 align="center">A passionate frontend developer from Cracow. When I do not programme, I invest in the stock market.</h3>
 
-- 🌱 I’m currently learning **typescript**
+- 🌱 I love exploring new technologies – currently I’m researching where the development of **artificial intelligence** will lead us, and I try to keep adapting to the ever-changing environment
 
-- 🤝 I’m looking for help with [kalkulator maturalny](https://kalkulatormaturalny.pl/) or [sprawdź węgiel](https://sprawdzwegiel.pl/)
+- 🚀 I’m currently developing two services: [budopromki](https://budopromki.pl/) and [kodyzbiedry](https://kodyzbiedry.pl/)
+
+- 🤝 If you want to help me with [budopromki](https://budopromki.pl/) or [kodyzbiedry](https://kodyzbiedry.pl/), get in touch via the contact form on the website
 
 - 💬 Ask me about **react, vue**
 
